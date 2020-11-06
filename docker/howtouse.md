@@ -11,7 +11,7 @@ cd lio_sam/docker
 
 ## Run
 
-On host:
+### On host:
 ```bash
 roscore
 ```
@@ -30,7 +30,7 @@ casual_walk.bag: https://drive.google.com/file/d/1HN5fYPXEHbDq0E5JtbQPkCHIHUoTFF
 
 
 
-On docker image:
+### On docker image:
 ```bash
 cd lio_sam/docker
 ./run.sh
