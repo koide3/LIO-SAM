@@ -6,6 +6,7 @@ RUN apt-get update \
                                                libmetis-dev ros-melodic-pcl-ros ros-melodic-image-transport \
                                                ros-melodic-navigation ros-melodic-robot-localization \
                                                ros-melodic-robot-state-publisher ros-melodic-cv-bridge \
+                                               ros-melodic-xacro \
  && apt-get clean && rm -rf /var/lib/apt/lists/*
 
 WORKDIR /root
