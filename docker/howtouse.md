@@ -38,3 +38,5 @@ cd lio_sam/docker
 roslaunch lio_sam run.launch
 ```
 
+![lio_sam](https://user-images.githubusercontent.com/31344317/98347870-5bd91c00-205b-11eb-82f0-8dec94dc3aec.gif)
+
